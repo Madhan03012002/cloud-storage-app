@@ -188,7 +188,7 @@ Before you can run the application, ensure that the following tools are installe
 
 ## Testing the API
 
-You can test all API endpoints using **Postman**. The collection is available [here](#) (provide the link to your Postman collection).
+You can test all API endpoints using **Postman**. The collection is available [here](#) (https://github.com/Madhan03012002/cloud-storage-app/blob/main/SRS.postman_collection.json).
 
 ---
 
